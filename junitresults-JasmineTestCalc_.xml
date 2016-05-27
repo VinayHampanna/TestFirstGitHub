@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Jasmine Test Calc" timestamp="2016-05-25T14:22:47" hostname="localhost" time="6.728" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Jasmine Test Calc" name="Add" time="0.39" />
+  <testcase classname="Jasmine Test Calc" name="Multiply" time="0.434" />
+ </testsuite>
+</testsuites>

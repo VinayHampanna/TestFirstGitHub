@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Jasmine Test Calc" timestamp="2016-05-26T10:45:15" hostname="localhost" time="12.512" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Jasmine Test Calc" name="Add" time="0.384" />
+  <testcase classname="Jasmine Test Calc" name="Multiply" time="0.408" />
+ </testsuite>
+ <testsuite name="Jasmine Test Calc 2" timestamp="2016-05-26T10:45:28" hostname="localhost" time="1.066" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Jasmine Test Calc 2" name="Add" time="0.358" />
+  <testcase classname="Jasmine Test Calc 2" name="Multiply" time="0.403" />
+ </testsuite>
+</testsuites>
